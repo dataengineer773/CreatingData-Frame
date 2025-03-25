@@ -1,0 +1,3 @@
+We want to create a new data frame, The solution is pandas has many methods of creating a new DataFrame object. One easy method is to instantiate a DataFrame using a Python dictionary. In the dictionary, each key is a column name and the value is a
+list - where each item corresponds to a row It’s easy to add new columns to any dataframe using a list of values pandas offers what can feel like an infinite number of ways to create a DataFrame. In the real world,
+creating an empty DataFrame and then populating it will almost never happen. Instead, our DataFrames will be created from real data we have loading from other sources (e.g., a CSV file or database).
